@@ -1,0 +1,37 @@
+# Hardhat files
+cache
+artifacts
+
+# TypeScript compilation output
+dist
+
+# Node.js dependencies
+node_modules
+
+# Environment variables
+.env
+
+# IDE files
+.vscode
+.idea
+
+# Logs
+logs
+*.log
+
+# Coverage directory used by tools like istanbul
+coverage
+coverage.json
+
+# Typechain generated files
+typechain
+typechain-types
+
+# Deployments
+# Uncomment if you want to ignore deployments
+# deployments
+
+# Miscellaneous
+.DS_Store
+*.swp
+*.swo
